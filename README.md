@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @KAMRANKHANALWI
-- 👀 I’m interested in learning programming and reading stories
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on GitHub
-- 📫 How to reach me THIS EVEN I DON'T KNOW
+- 👀 I’m interested in learning Programming and reading Novels
+
+- 
 
 <!---
 KAMRANKHANALWI/KAMRANKHANALWI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
