@@ -7,7 +7,6 @@ I'm Kamran, learning and exploring web developement.
 - Languages: Javascript, Java & Python
 - Frameworks & Libraries: Learning React.
 - Tools & Technologies: HTML5, CSS3, Git, JavaScript, NodeJS, ReactJS, Web Hosting.
-- Projects: kamrankhan-website
 
 ### Let's Connect
 
