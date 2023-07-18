@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @KAMRANKHANALWI
-- 👀 I’m interested in learning Programming and reading Novels
+### About Me
 
+I'm Kamran, learning and exploring web developement. 
 
+### My Tech Stack
 
-<!---
-KAMRANKHANALWI/KAMRANKHANALWI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Languages: Javascript, Java & Python
+- Frameworks & Libraries: Learning React.
+- Tools & Technologies: HTML5, CSS3, Git, JavaScript, NodeJS, ReactJS, Web Hosting.
+- Projects: ---
+
+### Let's Connect
+
+Feel free to explore my repositories and don't forget to ⭐️ your favorite projects! If you have any questions, suggestions, or just want to say hi, feel free to drop a mail @beingkamrankhanalwi@gmail.com . Looking forward to connecting with fellow developers and enthusiasts! 😊
