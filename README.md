@@ -1,6 +1,6 @@
 ### About Me
 
-I'm Kamran, learning and exploring web developement. 
+I'm Kamran, currently into java and web developement. 
 
 ### My Tech Stack
 
