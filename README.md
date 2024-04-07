@@ -10,4 +10,4 @@ I'm Kamran, currently into java and web developement.
 
 ### Let's Connect
 
-Feel free to explore my repositories and don't forget to ⭐️ your favorite projects! If you have any questions, suggestions, or just want to say hi, feel free to drop a mail @khankamranalwi@gmail.com . Looking forward to connecting with fellow developers and enthusiasts! 😊
+Feel free to explore my repositories and don't forget to ⭐️ your favorite projects! If you have any questions, suggestions, or just want to say hi, feel free to drop a [mail](@khankamranalwi@gmail.com) . Looking forward to connecting with fellow developers and enthusiasts! 😊
