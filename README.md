@@ -1,13 +1,30 @@
-### About Me
+# Hello! I'm Kamran 👋
 
-I'm Kamran, currently into java and web developement. 
+I'm a passionate full-stack developer with a focus on Java and web development. Currently, I’m diving into Spring Boot to expand my skills.
 
-### My Tech Stack
+## 🚀 My Tech Stack
 
-- Languages: Javascript, Java & Python
-- Frameworks & Libraries: Learning React.
-- Tools & Technologies: HTML5, CSS3, Git, JavaScript, NodeJS, ReactJS, Web Hosting.
+### Languages
+- **JavaScript**
+- **Java**
+- **Python**
 
-### Let's Connect
+### Frameworks & Libraries
+- **React**
+- **Express**
 
-Feel free to explore my repositories and don't forget to ⭐️ your favorite projects! If you have any questions, suggestions, or just want to say hi, feel free to drop a [mail](mailto:@khankamranalwi@gmail.com) . Looking forward to connecting with fellow developers and enthusiasts! 😊
+### Tools & Technologies
+- **HTML5**
+- **CSS3**
+- **Node.js**
+- **MongoDB**
+- **Git**
+- **Web Hosting**
+
+## 🌱 Currently Learning
+- **Spring Boot**
+
+## 🤝 Let's Connect
+Feel free to explore my repositories and don’t forget to ⭐️ your favorite projects! If you have any questions, suggestions, or just want to say hi, drop me a [mail](mailto:khankamranalwi@gmail.com). I’m always excited to connect with fellow developers and tech enthusiasts! 😊
+
+
