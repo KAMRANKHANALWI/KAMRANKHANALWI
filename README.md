@@ -1,7 +1,7 @@
 <h1 align="center">✨ Hey, welcome! <br>I'm Kamran Khan Alwi 👨‍💻</h1>
 
 <p align="center">
-  Full-Stack Developer | Gen AI | Open Source Contributor  
+  Full-Stack Developer | Gen AI | Open Source 
 </p>
 
 <p align="center">
