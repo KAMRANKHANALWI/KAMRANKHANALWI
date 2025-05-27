@@ -28,7 +28,7 @@
 `React.js` • `Node.js (Express)` • `FastAPI` • `Spring Boot`
 
 ### 🤖 GenAI & LLM Ecosystem
-`LangChain` • `LangGraph` • `ChromaDB` • `Hugging Face`
+`LangChain` • `LangGraph` • `LlamaIndex`  • `ChromaDB`  
 `RAG Systems` • `LLM Agents` • `Prompt Engineering` 
 
 ### 🛠 Tools & Technologies
