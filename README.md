@@ -28,12 +28,12 @@
 `React.js` • `Node.js (Express)` • `FastAPI` • `Spring Boot`
 
 ### 🤖 GenAI & LLM Ecosystem
-`LangChain` • `LangGraph` • `ChromaDB` • `Prompt Engineering`  
-`RAG Systems` • `LLM Agents` • `Open Source LLMs`
+`LangChain` • `LangGraph` • `ChromaDB` • `Hugging Face`
+`RAG Systems` • `LLM Agents` • `Prompt Engineering` 
 
 ### 🛠 Tools & Technologies
 `MongoDB` • `MySQL` • `HTML5` • `CSS3 / Tailwind`  
-`Git & GitHub` • `Postman` • `BeautifulSoup` • `Requests` • `Selenium`
+`Git & GitHub` • `Postman` • `BeautifulSoup` • `Selenium`
 
 ---
 
