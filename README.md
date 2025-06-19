@@ -19,6 +19,12 @@
 
 ---
 
+## </> Open Source Contribution
+
+• PR Merged in [EduLite](https://github.com/ibrahim-sisar/EduLite/pull/85) – Added About Page
+
+---
+
 ## 🧰 Tech Toolbox
 
 ### 👨‍💻 Languages
@@ -36,7 +42,6 @@
 `Git & GitHub` • `Postman` • `BeautifulSoup` • `Selenium`
 
 ---
-
 
 ## 🤝 Let’s Connect!
 
