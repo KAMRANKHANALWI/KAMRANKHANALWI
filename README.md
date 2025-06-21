@@ -24,7 +24,7 @@
 • PR Merged in [EduLite #85](https://github.com/ibrahim-sisar/EduLite/pull/85) – 🏗️ Added the **About Page**  
 • PR Merged in [EduLite #97](https://github.com/ibrahim-sisar/EduLite/pull/97) – 🎨 Full **UI Overhaul**: Redesigned **Home Page**, **Header**, **About Page**, and built a brand-new **Footer**
 
-🔗 **Live Site**: [edulite-nine.vercel.app](https://edulite-nine.vercel.app/)
+🔗 **Live Site**: [EduLite](https://edulite-nine.vercel.app/)
 
 ---
 
@@ -34,7 +34,7 @@
   → Built responsive, production-grade frontend using **React.js** + **TailwindCSS**  
   → Designed entire landing experience with modern UI, scroll effects, and section layouts  
   → Targeted at connecting Indian regional creators and local businesses  
-  → Open-source frontend code: [GitHub Repo](https://github.com/KAMRANKHANALWI/UdaanSathi)
+  → Open-source frontend code: [GitHub](https://github.com/KAMRANKHANALWI/UdaanSathi)
 
 ---
 
