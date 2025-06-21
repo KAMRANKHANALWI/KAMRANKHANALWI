@@ -34,7 +34,7 @@
   → Built responsive, production-grade frontend using **React.js** + **TailwindCSS**  
   → Designed entire landing experience with modern UI, scroll effects, and section layouts  
   → Targeted at connecting Indian regional creators and local businesses  
-  → Open-source frontend code: [GitHub](https://github.com/KAMRANKHANALWI/UdaanSathi)
+  → Open-source frontend code: [GitHub Repo](https://github.com/KAMRANKHANALWI/UdaanSathi)
 
 ---
 
