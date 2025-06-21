@@ -11,17 +11,21 @@
 
 ---
 
-## Work
+## 💼 Work
 
-- Breaking things to learn better 
-- Shipping fast, learning faster 
-- Building tools that actually help people 
+- Breaking things to learn better  
+- Shipping fast, learning faster  
+- Building tools that actually help people  
 
 ---
 
-## </> Open Source Contribution
+## 🚀 Open Source Contributions
 
-• PR Merged in [EduLite](https://github.com/ibrahim-sisar/EduLite/pull/85) – Added About Page
+• PR Merged in [EduLite #85](https://github.com/ibrahim-sisar/EduLite/pull/85) – 🏗️ Added the **About Page**  
+• PR Merged in [EduLite #97](https://github.com/ibrahim-sisar/EduLite/pull/97) – 🎨 Full **UI Overhaul**: Redesigned **Home Page**, **Header**, **About Page**, and built a brand-new **Footer**
+
+🔗 **Live Site**: [edulite-nine.vercel.app](https://edulite-nine.vercel.app/)
+
 
 ---
 
@@ -46,7 +50,7 @@
 ## 🤝 Let’s Connect!
 
 📩 [khankamranalwi@gmail.com](mailto:khankamranalwi@gmail.com)  
-🌍 [LinkedIn](https://www.linkedin.com/in/kamrankhanalwi/)   
+🌍 [LinkedIn](https://www.linkedin.com/in/kamrankhanalwi/)  
 🎯 Exploring new ideas? Open to **collabs, chats, and challenges** — let’s build something awesome.
 
 ---
