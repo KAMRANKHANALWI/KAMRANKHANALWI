@@ -22,7 +22,9 @@
 ## 🚀 Open Source Contributions
 
 • PR Merged in [EduLite #85](https://github.com/ibrahim-sisar/EduLite/pull/85) – 🏗️ Added the **About Page**  
-• PR Merged in [EduLite #97](https://github.com/ibrahim-sisar/EduLite/pull/97) – 🎨 Full **UI Overhaul**: Redesigned **Home Page**, **Header**, **About Page**, and built a brand-new **Footer**
+• PR Merged in [EduLite #97](https://github.com/ibrahim-sisar/EduLite/pull/97) – 🎨 Full **UI Overhaul**: Redesigned **Home Page**, **Header**, **About Page**, and built a brand-new **Footer**     
+• PR Merged in [EduLite #101](https://github.com/ibrahim-sisar/EduLite/pull/101) – 🔐 Built & Integrated **Login + Signup Pages** with **JWT Auth**, **reusable UI components**, and **AuthContext**
+
 
 🔗 **Live Site**: [EduLite](https://edulite-nine.vercel.app/)
 
