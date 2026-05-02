@@ -1,69 +1,46 @@
-<h1 align="center">✨ Hey, Welcome! <br>I'm Kamran Khan Alwi 👨‍💻</h1>
+<h1 align="center">Kamran Khan Alwi</h1>
 
 <p align="center">
-  Gen AI | Full-Stack Developer | Open Source 
-</p>
-
-<p align="center">
-  I turn coffee ☕ into code, and ideas 💡 into intelligent systems.  
-  Currently building some wild stuff with LLMs 🤖.
+  Building things with LLMs | Full-Stack
 </p>
 
 ---
 
-## 💼 Work
-
-- Breaking things to learn better  
-- Shipping fast, learning faster  
-- Building tools that actually help people  
+I build things with LLMs — mostly around retrieval system and agents. Currently working on a RAG-based chatbot that answers queries
+from a grounded document corpus, handling retrieval, reranking, and evaluation end-to-end.
 
 ---
 
-## 🚀 Open Source Contributions
+## Work
 
-• PR Merged in [EduLite #85](https://github.com/ibrahim-sisar/EduLite/pull/85) – 🏗️ Added the **About Page**  
-• PR Merged in [EduLite #97](https://github.com/ibrahim-sisar/EduLite/pull/97) – 🎨 Full **UI Overhaul**: Redesigned **Home Page**, **Header**, **About Page**, and built a brand-new **Footer**     
-• PR Merged in [EduLite #101](https://github.com/ibrahim-sisar/EduLite/pull/101) – 🔐 Built & Integrated **Login + Signup Pages** with **JWT Auth**, **reusable UI components**, and **AuthContext**
+**RAG Chatbot** *(ongoing)*  
+A query system built over a domain-specific document corpus. Handles multi-stage retrieval,
+cross-encoder reranking, and grounded response generation. Evaluated with RAGAS.
 
-
-🔗 **Live Site**: [EduLite](https://edulite-nine.vercel.app/)
-
----
-
-## ⌨️ Real-World Projects
-
- 🎬 [UdaanSathi](https://udaansathi.com/) – Influencer Marketing Platform for Local Brands  
-  → Built responsive, production-grade frontend using **React.js** + **TailwindCSS**  
-  → Designed entire landing experience with modern UI, scroll effects, and section layouts  
-  → Targeted at connecting Indian regional creators and local businesses  
-  → Open-source frontend code: [GitHub Repo](https://github.com/KAMRANKHANALWI/UdaanSathi)
+**UdaanSathi** : [udaansathi.com](https://udaansathi.com/)  
+Frontend for an influencer marketing platform. React + Tailwind. 
 
 ---
 
-## 🧰 Tech Toolbox
+## Open Source
 
-### 👨‍💻 Languages
-`Python` • `JavaScript` • `Java`
+Contributed to **EduLite** — an open-source education platform:
 
-### ⚙️ Frameworks & Libraries
-`React.js` • `Node.js (Express)` • `FastAPI` • `Spring Boot`
-
-### 🤖 GenAI & LLM Ecosystem
-`LangChain` • `LangGraph` • `LlamaIndex`  • `ChromaDB`  
-`RAG Systems` • `LLM Agents` • `Prompt Engineering` 
-
-### 🛠 Tools & Technologies
-`MongoDB` • `MySQL` • `HTML5` • `CSS3 / Tailwind`  
-`Git & GitHub` • `Postman` • `BeautifulSoup` • `Selenium`
+- [#85](https://github.com/ibrahim-sisar/EduLite/pull/85) — About page  
+- [#97](https://github.com/ibrahim-sisar/EduLite/pull/97) — Full UI overhaul: home, header, about, footer  
+- [#101](https://github.com/ibrahim-sisar/EduLite/pull/101) — Login & signup with JWT auth, AuthContext, reusable components
 
 ---
 
-## 🤝 Let’s Connect!
+## Stack
 
-📩 [khankamranalwi@gmail.com](mailto:khankamranalwi@gmail.com)  
-🌍 [LinkedIn](https://www.linkedin.com/in/kamrankhanalwi/)  
-🎯 Exploring new ideas? Open to **collabs, chats, and challenges** — let’s build something awesome.
+**Languages** — Python, JavaScript, Java  
+**Frameworks** — FastAPI, React.js, Next.js, Express.js, Spring Boot  
+**AI/ML** — LangChain, LangGraph, ChromaDB, Ollama  
+**Tools** — MongoDB, MySQL, Git, Postman
 
 ---
 
-> *“Create. Break. Iterate. Repeat.”* 💻
+## Contact
+
+[khankamranalwi@gmail.com](mailto:khankamranalwi@gmail.com) · [LinkedIn](https://www.linkedin.com/in/kamrankhanalwi/) · [GitHub](https://github.com/KAMRANKHANALWI)
