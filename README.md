@@ -13,7 +13,7 @@ from a grounded document corpus, handling retrieval, reranking, and evaluation e
 
 ## Work
 
-**RAG Chatbot**   
+**RAG based Chatbot**   
 A query system built over a domain-specific document corpus. Handles multi-stage retrieval,
 cross-encoder reranking, and grounded response generation. Evaluated with RAGAS.
 
